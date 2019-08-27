@@ -8,7 +8,7 @@ title: Founder (AppleCake Studios)
 email: iamsharooq@gmail.com
 website: www.sharooqsalaudeen.github.io
 # Social links
-twitter_username: facespics
+#twitter_username: facespics
 github_username:  SharooqSalaudeen
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -21,7 +21,7 @@ linkedin_username: sharooqsalaudeen
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/myProfile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Sharooq and I'm a currently focused on game developing. I am a fresh graduate on computer science engineering and I have applied all my knowledge that I have aquired throughout my life in making a complete casual game from programming to designing to publishing of my projects.
 
