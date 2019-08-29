@@ -23,7 +23,7 @@ linkedin_username: sharooqsalaudeen
 # about_title: About Me
 about_profile_image: images/myProfile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Sharooq and I'm a currently focused on game developing. I am a fresh graduate on computer science engineering and I have applied all my knowledge that I have aquired throughout my life in making a complete casual game from programming to designing to publishing of my projects.
+  Hi, my name's Sharooq and I'm a currently focused on game developing. I am a fresh graduate on computer science engineering and I have applied all my knowledge that I have aquired throughout my life in making casual games. I do every aspect of it from programming to designing to publishing of my projects.
 
   I am skilled in: <mark>Programming</mark> - C++, C#, Jave, Python, <mark>Game Developing</mark> - Unity Engine, <mark>Frontend Web Develpoment</mark>, <mark>Designing</mark> - Illustrator, Photoshop, and <mark>Video Editing</mark> - Premier Pro, After Effects
 
@@ -40,10 +40,10 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Calisthenic Fitness Training - I try to work out everyday, starting with a moring run along with calisthenic traing. In the evening ending with a gym weight lifting session.
-   - Soccer (Football) - I don't play soccer as often as i uses to in my college days, but i try to find time for it at times.
-   - Chess - I spend my time on this amazing game while I'm bored.
-   #- [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Calisthenic Fitness Training - I try to work out everyday, starting with a moring run along with calisthenic trainings. In the evening ending with a gym weight lifting session.
+   - Soccer (Football) - I don't play soccer as often as i uses to in my college days, but i try to find time for it.
+   - Chess - When i'm bored, I mostly spend my time on this amazing game.
+   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
