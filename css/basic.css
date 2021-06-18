@@ -92,7 +92,8 @@ body {
 }
 @media (max-width: 1023px) {
   .container {
-    padding-right: 15px;
+    /*Confusion with actual mobile screen*/
+    /* padding-right: 15px; */
   }
 }
 
