@@ -92,7 +92,7 @@ body {
 }
 @media (max-width: 1023px) {
   .container {
-    /*Confusion with actual mobile screen*/
+    /*It is properly rendered in mobile screen without it*/
     /* padding-right: 15px; */
   }
 }
