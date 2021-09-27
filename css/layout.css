@@ -659,7 +659,9 @@
   display: inline-block;
   font-size: 12px;
   line-height: 12px;
-  color: #777777;
+  /* srq edit */
+  /* color: #777777; */
+  color: #919191;
   font-weight: 400;
 }
 
