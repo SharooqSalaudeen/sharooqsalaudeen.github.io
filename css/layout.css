@@ -397,10 +397,10 @@
     display: none;
   }
 
-  .content.inner-top .circle-bts a:first-child {
+  /* .content.inner-top .circle-bts a:first-child {
     margin-bottom: 15px;
     display: block;
-  }
+  } */
 }
 
 /* 3.2 Services */
@@ -850,11 +850,7 @@
 }
 
 .box-item .image .info:after {
-  background: linear-gradient(
-    135deg,
-    rgba(0, 0, 0, 0.5) 0%,
-    rgba(0, 0, 0, 0) 100%
-  );
+  background: linear-gradient(135deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0) 100%);
 }
 
 .box-item .image .info .icon {
