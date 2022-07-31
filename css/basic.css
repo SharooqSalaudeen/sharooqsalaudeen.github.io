@@ -79,7 +79,7 @@ body {
 }
 
 .lines-grid {
-  padding-left: 14px;
+  /* padding-left: 14px; */
   position: fixed;
   top: 0;
   left: 0;
