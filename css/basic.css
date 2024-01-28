@@ -541,17 +541,21 @@ strong {
   width: auto;
 }
 
-a {
+
+ a {
   color: #a9a9a9;
   text-decoration: none;
   opacity: 1;
   outline: none;
 }
 
-a:hover {
+ a:hover {
   text-decoration: none;
   color: #5ac24e;
 }
+
+
+
 
 /* lists */
 ol,

@@ -308,7 +308,13 @@
   color: #5ac24e;
 }
 
-.content.inner-top .circle-bts a {
+.content.inner-top .circle-bts button{
+  border: #000000;
+}
+
+
+.content.inner-top .circle-bts button,
+  .content.inner-top .circle-bts a {
   margin: 0 8px;
   display: inline-block;
   vertical-align: top;
@@ -329,7 +335,7 @@
   -webkit-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
 }
-
+.content.inner-top .circle-bts button .icon,
 .content.inner-top .circle-bts a .icon {
   position: relative;
   display: inline-block;
@@ -343,7 +349,8 @@
   -o-transition: all 0.3s ease 0s;
 }
 
-.content.inner-top .circle-bts a span {
+.content.inner-top .circle-bts button span ,
+  .content.inner-top .circle-bts a span {
   padding: 0 24px;
   display: inline-block;
   vertical-align: top;
@@ -357,23 +364,27 @@
   -o-transition: all 0.3s ease 0s;
 }
 
-.content.inner-top .circle-bts a span .icon {
+.content.inner-top .circle-bts button span .icon ,
+  .content.inner-top .circle-bts a span .icon {
   top: -2px;
   margin-right: 5px;
 }
 
-.content.inner-top .circle-bts a:hover {
+.content.inner-top .circle-bts button:hover ,
+  .content.inner-top .circle-bts a:hover {
   box-shadow: 0 5px 35px rgba(0, 0, 0, 0.2);
   -moz-box-shadow: 0 5px 35px rgba(0, 0, 0, 0.2);
   -webkit-box-shadow: 0 5px 35px rgba(0, 0, 0, 0.2);
   -khtml-box-shadow: 0 5px 35px rgba(0, 0, 0, 0.2);
 }
 
-.content.inner-top .circle-bts a:hover .icon {
+.content.inner-top .circle-bts button:hover .icon ,
+  .content.inner-top .circle-bts a:hover .icon {
   color: #5ac24e;
 }
 
-.content.inner-top .circle-bts a:hover span {
+.content.inner-top .circle-bts button:hover span ,
+  .content.inner-top .circle-bts a:hover span {
   color: #5ac24e;
 }
 
