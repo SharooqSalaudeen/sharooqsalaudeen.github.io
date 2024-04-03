@@ -656,6 +656,8 @@
   color: #5ac24e;
 }
 
+
+
 .resume-items .resume-item .name {
   margin: 0 0 5px 0;
   font-size: 16px;
@@ -683,6 +685,19 @@
 
 .resume-items .resume-item p {
   margin: 0;
+}
+
+.resume-items .resume-item .showmore {
+  margin: 6px 0 0;
+  padding: 0;
+  position: relative;
+  display: flex;
+  align-items: baseline;
+  font-size: 14px;
+  line-height: 1px;
+  color: #5ac24e;
+  font-weight: 400;
+  cursor: pointer;
 }
 
 /* 4.2 Skills */
