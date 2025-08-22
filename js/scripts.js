@@ -194,9 +194,7 @@ $(function () {
     mainClass: "popup-box-inline",
     callbacks: {
       open: function () {
-        $(".popup-box-inline .popup-box").slimScroll({
-          height: height + "px",
-        });
+        $(".popup-box-inline .popup-box")
       },
     },
   });
