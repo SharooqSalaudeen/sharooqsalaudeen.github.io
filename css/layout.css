@@ -242,12 +242,12 @@
   -o-transition: all 0.3s ease 0s;
 }
 
-.card-inner .card-box:hover {
+/* .card-inner .card-box:hover {
   box-shadow: 0 15px 55px rgba(0, 0, 0, 0.3);
   -moz-box-shadow: 0 15px 55px rgba(0, 0, 0, 0.3);
   -webkit-box-shadow: 0 15px 55px rgba(0, 0, 0, 0.3);
   -khtml-box-shadow: 0 15px 55px rgba(0, 0, 0, 0.3);
-}
+} */
 
 @media (max-width: 1023px) {
   .card-inner {
