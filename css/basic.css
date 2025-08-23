@@ -481,6 +481,7 @@ h6 {
 
 p {
   font-size: 15px;
+  font-family: "Inter", sans-serif;
   line-height: 1.7;
   padding: 0;
   margin: 0 0 20px 0;
@@ -613,7 +614,7 @@ td {
 
 /* blockquote */
 blockquote {
-  font-family: "Poppins";
+  font-family: "Inter", sans-serif;
 }
 
 /*
